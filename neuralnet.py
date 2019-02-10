@@ -91,7 +91,7 @@ def plot_car():
     plt.show()
 
 def main():
-    #plot_wine()
+    plot_wine()
     plot_car()
 
 
